@@ -35,6 +35,9 @@ It will be beneficial for various sectors, including emergency management, publi
 
 ## Solution Demo video:
 
+[![Watch the video](./images/thumbnail.jpeg)](https://www.youtube.com/watch?v=AaRl_7nD2YU)
+
+
 ## Productivity gains with RescueX
 
 RescueX  powered by IBM Watsonx significantly enhances productivity in emergency response processes by communication between parties and enabling real-time decision-making. By providing personalized guidance to individuals during crises, the solution minimizes the time and effort required for both users and emergency responders.
