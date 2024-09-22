@@ -35,7 +35,7 @@ It will be beneficial for various sectors, including emergency management, publi
 
 ## Solution Demo video:
 
-[![Watch the video](./images/thumbnail.jpeg)](https://www.youtube.com/watch?v=AaRl_7nD2YU)
+[![Watch the video](./images/thumnail.jpeg)](https://www.youtube.com/watch?v=AaRl_7nD2YU)
 
 
 ## Productivity gains with RescueX
