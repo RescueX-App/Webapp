@@ -33,6 +33,7 @@ It will be beneficial for various sectors, including emergency management, publi
 3. If the situation is critical, the watsonx bot also intimates the Nearby Rescue authorities and connecting them with the user. The Rescuer connects with the User and provides additional support by the time he reaches the affected area.
 4. At the other side (Rescue Team) the RescueX analyzes the terrain, nearby water bodies, and current weather conditions around the user's location, using this data to suggest the safest and fastest routes for the team to reach the affected area. It provides real-time insights, such as road conditions, potential obstacles, and flood-prone zones, ensuring that the rescuers can navigate efficiently and reach the user with minimal delay.
 
+## Solution Demo video:
 
 ## Productivity gains with RescueX
 
@@ -45,7 +46,4 @@ Below is an explanation of how the solution enhances productivity, reduces respo
 4. Reduction in Communication Delays : RescueX facilitates instant two-way communication between users and rescue teams, ensuring that all necessary information is available in real-time. This reduces communication delays, improving coordination and speeding up rescue efforts.
 
 These productivity improvements lead to faster, more efficient rescue operations, better resource utilization, and potentially life-saving outcomes during natural disasters.
-
-## Conclusion:
-RescueX harnesses the power of IBM Watsonx to offer an innovative, AI-driven disaster management solution, making it a crucial tool for natural disasters like floods, earthquakes, and hurricanes. With real-time data processing, context-aware decision-making, and personalized rescue plans, RescueX acts as a virtual rescuer, enhancing individual safety, while streamlining rescue operations.
 
