@@ -20,11 +20,11 @@ It will be beneficial for various sectors, including emergency management, publi
 
 ## Features:
 
-1. Built on IBM Watsonx technology, RescueX integrates advanced AI capabilities to process both user inputs (voice/ text).
-2. Suggests the safest routes based on analyzing the current environmental conditions.
-3. Provides the information of nearest safe shelter homes.
-4. Personalized emergency kit recommendations.
-5. Assesses the surrounding environment to guide rescue teams to the user's location during emergencies.
+1. Advanced AI Integration: Built on IBM Watsonx, RescueX processes user inputs (voice/text) to understand individual needs.
+2. Safe Route Suggestions: Analyzes current environmental conditions to recommend the safest evacuation routes.
+3. Shelter Information: Provides users with the locations of the nearest safe shelters.
+4. Personalized Emergency Kits: Recommends essential supplies tailored to the user’s specific situation.
+5. Rescue Team Support: Assesses the environment to guide rescue teams efficiently to the user's location during emergencies.
    
 ## Flow of the Actions: 
 
